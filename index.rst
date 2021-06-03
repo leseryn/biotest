@@ -9,6 +9,6 @@ Bioinformatics is an interdisciplinary and emerging field, which develops method
 Lecture
 ==========================================
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
 
    Lecture <lecture>
