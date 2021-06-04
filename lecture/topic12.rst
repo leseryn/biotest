@@ -2,8 +2,10 @@ Topic 12. ​Next generation sequencing
 ==========================================
 | **Sequencing technology**
 | **Read Mapping**
-| 	* **Suffix tree**
-|	* **Burrows–Wheeler transform**
+
+  * **Suffix tree**
+  * **Burrows–Wheeler transform**
+
 | **BAM/SAM formats**
 | **​Visualising NGS data: IGV...**
 * Supporting Materials
