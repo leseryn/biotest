@@ -1,4 +1,4 @@
-Topic 02. Sequence alignment
+topic 02. Sequence alignment
 ==========================================
 | **Why do we need sequence alignment?**
 | **Its application in structure homology and evolutionary modeling context​**

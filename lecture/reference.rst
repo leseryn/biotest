@@ -5,7 +5,7 @@ Reference Books
 
 * `Bioinformatics Algorithms: An Active Learning Approach <http://bioinformaticsalgorithms.com/index.htm>`_
 
-  * `Vedios <https://www.youtube.com/user/bioinfalgorithms>`_ @ YouTube
+  * `Videos <https://www.youtube.com/user/bioinfalgorithms>`_ @ YouTube
   * `Problems <http://rosalind.info/problems/list-view/>`_
 
 * Introduction to Bioinformatics

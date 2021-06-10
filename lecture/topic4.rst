@@ -1,4 +1,4 @@
-Topic 04. Multiple Sequence Alignment
+topic 04. Multiple Sequence Alignment
 ==========================================
 | **Advance BLAST**
 | **​PRESENTATION1: The complexity of MSA**

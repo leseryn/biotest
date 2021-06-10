@@ -1,4 +1,4 @@
-Topic 15. Comparative genomics
+topic 15. Comparative genomics
 ==========================================
 | **Genome alignment**
 | **Phylogenomics**

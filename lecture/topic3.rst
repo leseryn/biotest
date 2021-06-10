@@ -1,4 +1,4 @@
-Topic 03. Pairwise sequence alignment
+topic 03. Pairwise sequence alignment
 ==========================================
 | **Local alignment**
 | **Affine Gap Penalties - The Gotoh Algorithm**

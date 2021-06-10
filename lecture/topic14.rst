@@ -1,4 +1,4 @@
-Topic 14. ​​​Computational epigenetics
+topic 14. ​​​Computational epigenetics
 ==========================================
 | **Chromatin biology**
 | **Nuclear organization**

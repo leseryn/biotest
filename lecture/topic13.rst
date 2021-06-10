@@ -1,4 +1,4 @@
-Topic 13. RNA-Seq
+topic 13. RNA-Seq
 ==========================================
 | **Single-nucleotide polymorphisms related with diseases​**
 | **​How does a gene express and regulate?**

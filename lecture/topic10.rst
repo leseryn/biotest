@@ -1,4 +1,4 @@
-Topic 10. ​Protein functional classes prediction
+topic 10. ​Protein functional classes prediction
 ==========================================
 | **Machine learning**
 | **Feature reduction​**

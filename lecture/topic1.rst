@@ -1,4 +1,4 @@
-Topic 01. Introduction
+topic 01. Introduction
 ==========================================
 
 | **What is bioinformatics?**

@@ -1,4 +1,4 @@
-Topic 09. Phylogenetic tree 2/2
+topic 08. Phylogenetic tree 2/2
 ==========================================
 | **PRESENTATION3: bootstrap**
 | **​Character/parsimony-based methods**

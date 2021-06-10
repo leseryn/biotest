@@ -1,4 +1,4 @@
-Topic 12. ​Next generation sequencing
+topic 12. ​Next generation sequencing
 ==========================================
 | **Sequencing technology**
 | **Read Mapping**

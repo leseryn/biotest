@@ -1,4 +1,4 @@
-Topic 05. MSA approximation algorithm
+topic 05. MSA approximation algorithm
 ==========================================
 | **The variation of the algorithms, which one is better?**
 | **​PRESENTATION2: MAFFT**

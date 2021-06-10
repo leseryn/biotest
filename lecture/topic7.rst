@@ -1,4 +1,4 @@
-Topic 07. Phylogenetic tree 1/2
+topic 07. Phylogenetic tree 1/2
 ==========================================
 | **Introduction to evolution**
 | **​Probabilistic and ideal-data models**

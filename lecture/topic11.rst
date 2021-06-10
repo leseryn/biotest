@@ -1,4 +1,4 @@
-Topic 11. Genomics
+topic 11. Genomics
 ==========================================
 | **What is gene and genome?**
 | **The Human Genome Project**

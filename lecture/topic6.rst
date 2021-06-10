@@ -1,4 +1,4 @@
-Topic 06. Sequence alignment post-process
+topic 06. Sequence alignment post-process
 ==========================================
 | **Uncertainty and its effect on downstream analysis**
 | **​How to detect uncertainty**

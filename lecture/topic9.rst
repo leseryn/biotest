@@ -1,4 +1,4 @@
-Topic 10. Protein secondary structure prediction
+topic 9. Protein secondary structure prediction
 ==========================================
 | **RCSB Protein Data Bank (PDB)**
 | **​Neural network approach**
